@@ -7,7 +7,7 @@ Simply wrap your component with the SwipeOptions component and your component wi
 ```js
 <SwipeOptions
   left={[ <LeftItem /> ]}
-  right={[ <RightItem1 />, <RightItem2 /> ]}
+  right={[ <RightItem /> ]}
 >
   <MyComponent />
 </SwipeOptions>
