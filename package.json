@@ -1,0 +1,21 @@
+{
+  "name": "react-swipe-options",
+  "version": "1.0.0",
+  "description": "A wrapper component to inject swipeable options under an element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "gestures",
+    "swipe"
+  ],
+  "author": "mcli830",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "swipeable": "^1.0.5"
+  }
+}
